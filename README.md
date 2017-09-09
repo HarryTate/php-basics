@@ -1,3 +1,4 @@
 # php-basics
 BasicsOfPHP
-Theses display basics of php for refferal and learing purposes
+The basics of php
+These are for learning and referral.
