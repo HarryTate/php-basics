@@ -1,4 +1,3 @@
 # php-basics
 BasicsOfPHP
-
-test
+Theses display basics of php for refferal and learing purposes
